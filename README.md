@@ -79,4 +79,3 @@ This will run the aggregator on a ticker and print item titles to stdout.
 - When passing intervals to the aggregator or query logic use Go duration strings (`1h`, `30m`, `15m`).
 - If you prefer to run only the binary without installing, run `go build` and execute the produced binary.
 
-If you want, I can add a sample `config.json` to the repo or wire a `--config` flag to make config location explicit.
